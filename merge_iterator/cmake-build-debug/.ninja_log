@@ -1,0 +1,9 @@
+# ninja log v5
+12	537	1666509711997022421	lib/libgtest.a	e21429778cf18d0f
+4	3301	1666512953988638971	CMakeFiles/test.dir/test.cpp.o	22d73d534f414ef5
+1	1093	1666512949925213075	CMakeFiles/merge_iterator.dir/main.cpp.o	dcd5b67724da8ba
+3301	3628	1666512954318646481	test	c76dcf5dde03c26a
+11	9013	1666504973313296137	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	61dcc2b2040c6c42
+1093	1199	1666512950028548765	merge_iterator	f5084e7c0500aaa9
+537	634	1666509712113690678	lib/libgtest_main.a	30ececf4ed42069a
+11	4143	1666504968453259847	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	ad092dd296b7804e
